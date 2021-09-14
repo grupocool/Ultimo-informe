@@ -16,11 +16,11 @@
 
 ## 1.2 Objetivos Específicos
 
-
+- Analizar y desarrollar los ejercicios propuestos utilizando las fórmulas de conversión correspondiente para pasar de rectangular a polar y viceversa, así como también implementando los conceptos sobre suma, resta, multiplicación y división tanto en su forma polar como rectangular.
 
 # 2. Marco Teórico
 
-
+![Transformadores](https://user-images.githubusercontent.com/85137954/133256025-8e4b8114-906d-4332-9ce6-130058c1bff0.png)
 
 # 3. Material y Equipo Requerido
 
@@ -93,15 +93,17 @@ Desarrollando 7.6-1.2j : (7.7|- -9°)
 ![image](https://user-images.githubusercontent.com/85137954/133198260-4a4badeb-1228-4a72-abb8-0298dab4c16d.png)
 
 
-
-
-
 # 5. Video
 
 https://youtu.be/Iqd0vu2DdSc
 
 # 6. Conclusiones
 
+- Los números complejos permiten realizar operaciones matemáticas con cantidades fasoriales y son muy útiles en el análisis de circuitos de ca. Con el sistema de los números complejos se puede sumar, restar, multiplicar y dividir cantidades que tienen tanto magnitud como ángulo.
 
 # 7. Referencias
+
+- Johnson, D. E. et al. Electric Circuit Analysis. 3a. ed. Upper Saddle River, NJ: Prentice Hall, 1997.
+
+- Kraus, A. D. Circuit Analysis, St. Paul, MN: West Publishing, 1991.
 
