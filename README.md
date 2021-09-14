@@ -82,8 +82,10 @@ Desarrollando 7.6-1.2j : (7.7|- -9°)
 
 6.8 |_ 125.3° +4.5 |_ -11.57.6-1.2j= -3.92 + 5.54j + 0.57 -0.025j= -3.35+5.51j
 
-4.4 REalice las operaciones anteriores con calculadora y compare resultados:
+4.4 Realice las operaciones anteriores con calculadora y compare resultados:
+
 ![image](https://user-images.githubusercontent.com/85137954/133198117-7dc90a6c-db6e-426f-962a-45cfc7516fd2.png)
+
 ![image](https://user-images.githubusercontent.com/85137954/133198152-1f16fb70-513b-4a75-9ac1-5b08b484e84f.png)
 ![image](https://user-images.githubusercontent.com/85137954/133198177-d73f9258-3d02-467a-bcc3-e840a44c9755.png)
 ![image](https://user-images.githubusercontent.com/85137954/133198200-c7f63d3b-cec4-4281-a8ec-a8f6cd8a2199.png)
